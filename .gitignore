@@ -1,6 +1,5 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/vscode,gradle,eclipse
-# Edit at https://www.toptal.com/developers/gitignore?templates=vscode,gradle,eclipse
+# Created by https://www.toptal.com/developers/gitignore/api/vscode,eclipse,gradle
+# Edit at https://www.toptal.com/developers/gitignore?templates=vscode,eclipse,gradle
 
 ### Eclipse ###
 .metadata
@@ -98,4 +97,4 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
-# End of https://www.toptal.com/developers/gitignore/api/vscode,gradle,eclipse
+# End of https://www.toptal.com/developers/gitignore/api/vscode,eclipse,gradle
